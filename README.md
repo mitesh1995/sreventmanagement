@@ -1,0 +1,2 @@
+# sreventmanagement
+my static website
